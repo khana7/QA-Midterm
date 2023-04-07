@@ -10,4 +10,4 @@ npm run view
 
 npm run edit
 
-npm run accumulated
+npm run platforma
